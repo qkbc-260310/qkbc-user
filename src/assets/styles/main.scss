@@ -1,0 +1,16 @@
+:root {
+  font-family: Arial, "Microsoft YaHei", sans-serif;
+  color: #27342f;
+  background: #eff2f5;
+  font-synthesis: none;
+  --van-primary-color: #18b566;
+  --van-tabs-bottom-bar-color: #18b566;
+}
+
+* { box-sizing: border-box; }
+html, body, #app { min-height: 100%; margin: 0; }
+body { min-width: 320px; background: #eff2f5; }
+button, input { font: inherit; }
+.mobile-page { width: 100%; max-width: 640px; min-height: 100vh; margin: 0 auto; background: #eff2f5; }
+.page-content { padding: 16px; }
+.card-surface { padding: 16px; background: #fff; border-radius: 12px; box-shadow: 0 2px 8px rgba(30, 52, 44, .05); }

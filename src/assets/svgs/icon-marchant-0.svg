@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <path d="M23.78,17.5h52c6.38,0,11.56,5.18,11.56,11.56v43.11c0,5.7-4.63,10.33-10.33,10.33H22.22c-5.27,0-9.56-4.28-9.56-9.56V28.61c0-6.13,4.98-11.11,11.11-11.11Z" style="fill: none; stroke: #4f5251; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <path d="M33.6,41.93c-.02.49-.12,1.36-.67,2.21-.72,1.12-1.78,1.53-2.62,1.85-.78.3-2.57,1-4.63.31-.52-.17-2.02-.68-2.93-2.21-.58-.97-.66-1.92-.67-2.42l1.67-7.11c1.07-4.54,5.12-7.75,9.79-7.75h32.89c4.81,0,9,3.3,10.11,7.98l1.59,6.68c0,.49-.09,1.45-.67,2.42-.91,1.54-2.42,2.04-2.93,2.21-2.06.69-3.84,0-4.63-.31-.84-.33-1.9-.74-2.62-1.85-.55-.85-.65-1.72-.67-2.21" style="fill: none; stroke: #4f5251; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <path d="M33.6,41.67c0,.49.09,1.45.64,2.42.87,1.54,2.31,2.04,2.8,2.21,1.97.69,3.67,0,4.42-.31.8-.33,1.81-.74,2.51-1.85.53-.85.62-1.72.64-2.21" style="fill: none; stroke: #4f5251; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <path d="M44.6,41.47c0,.49.09,1.45.64,2.42.87,1.54,2.31,2.04,2.8,2.21,1.97.69,3.67,0,4.42-.31.8-.33,1.81-.74,2.51-1.85.53-.85.62-1.72.64-2.21" style="fill: none; stroke: #4f5251; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <path d="M55.61,41.47c0,.49.09,1.45.64,2.42.87,1.54,2.31,2.04,2.8,2.21,1.97.69,3.67,0,4.42-.31.8-.33,1.81-.74,2.51-1.85.53-.85.62-1.72.64-2.21" style="fill: none; stroke: #4f5251; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="26.91" y1="47.53" x2="26.91" y2="61.06" style="fill: none; stroke: #4f5251; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="26.91" y1="70.16" x2="26.91" y2="77.87" style="fill: none; stroke: #4f5251; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="73.19" y1="77.87" x2="73.19" y2="70.16" style="fill: none; stroke: #4f5251; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="73.19" y1="47.53" x2="73.19" y2="61.06" style="fill: none; stroke: #4f5251; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <path d="M50.55,61.06v-4.37s.89-6.09,7.73-6.09,7.51,6.09,7.51,6.09v4.37" style="fill: none; stroke: #4f5251; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <rect x="21.85" y="61.78" width="56.28" height="8.38" rx="1.99" ry="1.99" style="fill: none; stroke: #4f5251; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <path d="M50.48,65.79h-4.42c-1.04,0-1.88.84-1.88,1.88v7.93c0,.6.65.98,1.18.68l2.68-1.5,2.62,1.4c.65.34,1.43-.13,1.43-.87v-7.9c0-.9-.72-1.62-1.62-1.62ZM48.05,67.83c-.32,0-.58-.26-.58-.58s.26-.57.58-.57.57.26.57.57-.26.58-.57.58Z" style="fill: #4f5251;"/>
+  <path d="M76.14,57.71s-.29-2.31.96-3.89,3.39-2.37,4.65-2.79c.75-.26,1.47-.12,1.47-.12,0,0,.43,1.49-.63,4.06s-3.27,3.09-3.75,3.24-2.04.07-2.04.07l3.89-4.44s-1.32.28-2.55,1.51-1.99,2.37-1.99,2.37Z" style="fill: #4f5251;"/>
+</svg>

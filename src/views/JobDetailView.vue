@@ -1,0 +1,3 @@
+<script setup>import {computed} from 'vue';import {useRoute} from 'vue-router';import AppNavBar from '@/components/common/AppNavBar.vue';import {jobList} from '@/mock/user/job';const route=useRoute();const job=computed(()=>jobList.find(x=>String(x.id)===route.params.jobId))</script>
+<template><main class="mobile-page"><AppNavBar title="兼职详情"/><section v-if="job" class="page-content"><article class="card-surface"><h1>{{job.title}}</h1><p>{{job.merchant}}</p><strong>{{job.salary}}</strong><p>{{job.description}}</p></article></section></main></template>
+<style scoped lang="scss">h1{margin:0}.card-surface p{color:#718078;line-height:1.7}.card-surface strong{color:#e05c3d}</style>

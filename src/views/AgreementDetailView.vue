@@ -1,0 +1,3 @@
+<script setup>import {computed} from 'vue';import {useRoute} from 'vue-router';import AppNavBar from '@/components/common/AppNavBar.vue';import EmptyView from '@/components/common/EmptyView.vue';import {agreementList} from '@/mock/user/agreement';const route=useRoute();const agreement=computed(()=>agreementList.find(x=>String(x.id)===route.params.agreementId))</script>
+<template><main class="mobile-page"><AppNavBar title="服务条款"/><section v-if="agreement" class="page-content"><article class="card-surface"><h1>{{agreement.title}}</h1><small>更新于 {{agreement.updatedAt}}</small><p>{{agreement.content}}</p></article></section><EmptyView v-else description="等待更新~"/></main></template>
+<style scoped lang="scss">h1{margin:0 0 8px}small,p{color:#74817b}p{line-height:1.8}</style>

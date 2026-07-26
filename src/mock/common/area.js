@@ -1,0 +1,1 @@
+export { areaOptions } from '../area'

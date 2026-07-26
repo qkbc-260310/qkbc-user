@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect x="14.87" y="17.5" width="70.26" height="65" rx="8.05" ry="8.05" style="fill: none; stroke: #1a532a; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <path d="M43.15,23.26h21.61c8.66,0,15.69,7.03,15.69,15.69v8.15c0,11.13-9.04,20.17-20.17,20.17H14.87v-15.74c0-15.61,12.67-28.28,28.28-28.28Z" style="fill: none; stroke: #1a532a; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <path d="M14.87,71.83h42.26c12.88,0,23.32-10.44,23.32-23.32" style="fill: none; stroke: #1a532a; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <path d="M14.87,74.88c0,1.22,1,2.21,2.21,2.21h39.49c15.71,0,28.56-12.85,28.56-28.56" style="fill: none; stroke: #1a532a; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <circle cx="59.13" cy="33.45" r="3.32" style="fill: none; stroke: #fb612f; stroke-linecap: round; stroke-miterlimit: 10;"/>
+  <circle cx="37.25" cy="49.84" r="1.74" style="fill: #fb612f;"/>
+  <line x1="42.5" y1="33.18" x2="49.05" y2="33.18" style="fill: none; stroke: #fb612f; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="30.75" y1="53.81" x2="36.13" y2="53.81" style="fill: none; stroke: #fb612f; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <polyline points="25.78 67.27 30.22 62.17 40.98 62.17 46.06 55.04" style="fill: none; stroke: #1a532a; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <path d="M29.87,58.43h8.53l11.11-16.54h-4.27l-4.76,2.95c-.61.38-1.42.23-1.85-.34h0c-.6-.78-.42-1.91.39-2.47l6.22-4.29h9.35l6.43,6.2,5.02-3.53c.73-.51,1.73-.38,2.3.31h0c.47.57.36,1.42-.24,1.85l-7.72,5.54-4.09-3.64-4.33,5.54-1.86-1.16,6.75-8.77" style="fill: none; stroke: #1a532a; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
+  <polyline points="43.48 50.87 55.76 57.44 47.46 67.27 52.64 67.27 62.34 56.44 51.97 50" style="fill: none; stroke: #1a532a; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 2px;"/>
+</svg>

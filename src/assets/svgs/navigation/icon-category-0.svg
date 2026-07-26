@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect x="17.5" y="17.5" width="65" height="65" rx="12" ry="12" style="fill: none; stroke: #4f5251; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <rect x="24.9" y="26.17" width="22.03" height="19.5" rx="6" ry="6" style="fill: none; stroke: #4f5251; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <rect x="53.01" y="26.17" width="22.03" height="19.5" rx="6" ry="6" style="fill: none; stroke: #4f5251; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <rect x="24.93" y="56.86" width="22.03" height="19.5" rx="6" ry="6" style="fill: none; stroke: #4f5251; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <rect x="53.04" y="56.86" width="22.03" height="19.5" rx="6" ry="6" style="fill: none; stroke: #4f5251; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <line x1="24.9" y1="51.32" x2="75.04" y2="51.32" style="fill: none; stroke: #4f5251; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <circle cx="75.04" cy="23.46" r="2.23" style="fill: #4f5251;"/>
+</svg>

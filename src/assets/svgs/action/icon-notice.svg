@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="layer" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <path d="M11.04,69l20.06.34c.52,0,1.01.22,1.38.59l17,17c1.26,1.26,3.41.37,3.41-1.41V14.5c0-1.78-2.15-2.67-3.41-1.41l-16.96,16.96c-.38.38-.88.59-1.41.59H11.04v38.37Z" style="fill: none; stroke: #1a532a; stroke-linecap: round; stroke-linejoin: round; stroke-width: 4px;"/>
+  <path d="M65.41,34.19c1.13.97,7.35,6.52,7.85,15.81.58,10.72-6.93,17.46-7.85,18.26" style="fill: none; stroke: #1a532a; stroke-linecap: round; stroke-linejoin: round; stroke-width: 4px;"/>
+  <path d="M76.37,23.22c1.76,1.59,12.47,11.59,12.59,28,.13,16.76-10.88,27.04-12.59,28.59" style="fill: none; stroke: #1a532a; stroke-linecap: round; stroke-linejoin: round; stroke-width: 4px;"/>
+</svg>
